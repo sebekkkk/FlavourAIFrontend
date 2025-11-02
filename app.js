@@ -8,7 +8,7 @@
 
   // ---------- Konfiguracja ----------
   const CONFIG = {
-    API_BASE: 'http://food-tanzania.gl.at.ply.gg:28731/apiv1',
+    API_BASE: '',
     TOKEN_KEY: 'flavourai_token',
     MSG_TIMEOUT: 6000
   };
